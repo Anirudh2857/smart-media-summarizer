@@ -1,0 +1,8 @@
+streamlit
+openai>=1.0.0
+requests
+beautifulsoup4
+moviepy==1.0.3
+yt_dlp
+textblob
+tqdm
